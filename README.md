@@ -66,7 +66,7 @@ formease-extension/
 <p align="center">
   <img src="https://github.com/vatssomya.png" width="100" height="100" style="border-radius: 50%;" />
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://github.com/gazalgarg.png" width="100" height="100" style="border-radius: 50%;" />
+  <img src="https://github.com/gajalgarg09.png" width="100" height="100" style="border-radius: 50%;" />
 </p>
 
 <p align="center">
@@ -78,11 +78,11 @@ formease-extension/
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /
 
   </a>
-  <a href="https://linkedin.com/in/somyavats">
+  <a href="https://www.linkedin.com/in/somya-vats-472a4a289/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/gazalgarg">
+  <a href="https://github.com/gajalgarg09">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://linkedin.com/in/gazalgarg">

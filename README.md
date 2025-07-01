@@ -75,7 +75,8 @@ formease-extension/
 
 <p align="center">
   <a href="https://github.com/vatssomya">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://github.com/vatssomya" alt="Somya Vats" width="100" height="100" style="border-radius: 50%;" />
+
   </a>
   <a href="https://linkedin.com/in/somyavats">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />

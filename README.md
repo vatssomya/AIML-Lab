@@ -80,7 +80,7 @@ formease-extension/
 </p>
 
 <p align="center">
-  <strong>Somya Vats</strong> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Gazal Garg</strong>
+  <strong>Somya Vats</strong> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 <p align="center">

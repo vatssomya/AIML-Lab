@@ -1,7 +1,15 @@
-<h1 align="center">
-  <span style="font-size: 3rem;">FormEase</span>
-</h1>
+<h1 align="center"><strong>FormEase</strong></h1>
 <h3 align="center">One-Click File Processing for Seamless Online Applications</h3>
+
+---
+
+##  Project Overview
+
+**FormEase** is a lightweight Chrome Extension that streamlines the file upload process for online application forms.  
+Users can **resize, compress, and convert images or videos** directly inside any webpage — without needing external tools.
+
+> Built for privacy, designed for accessibility, and crafted to reduce friction in applications.
+
 
 <p align="center">
   <img src="https://img.shields.io/badge/Extension-Chrome-blue?logo=googlechrome" />
@@ -10,29 +18,21 @@
   <img src="https://img.shields.io/badge/Video-ffmpeg.wasm-orange" />
 </p>
 
+
+
+##  Tech Stack
+
+| Component          | Tool / Library        |
+|--------------------|-----------------------|
+| Extension Framework | Chrome Extension (Manifest V3) |
+| Scripting Language | JavaScript            |
+| UI Styling         | HTML, TailwindCSS     |
+| Image Processing   | [Pica.js]             |
+| Video Processing   | [ffmpeg.wasm]         |
+| File Handling      | FileReader, DataTransfer APIs |
 ---
 
-## 🧠 Project Overview
-
-**FormEase** is a lightweight Chrome Extension that streamlines the file upload process for online application forms.  
-Users can **resize, compress, and convert images or videos** directly inside any webpage — without needing external tools.
-
-> Built for privacy, designed for accessibility, and crafted to reduce friction in applications.
-
----
-
-## 🧰 Tech Stack
-
-- **Extension Framework**: Chrome Extension (Manifest V3)
-- **Frontend/UI**: HTML, TailwindCSS
-- **Scripting**: JavaScript
-- **Image Processing**: Pica.js
-- **Video Processing**: FFmpeg.wasm
-- **File Handling**: Client-side using FileReader & DataTransfer APIs
-
----
-
-## 📁 Directory Structure
+## Directory Structure
 ```bash
 formease-extension/
 ├── manifest.json
@@ -51,7 +51,7 @@ formease-extension/
 
 ---
 
-## 🧪 Installation & Testing
+## Installation & Testing
 
 1. Clone the repository  
 2. Open `chrome://extensions` in your browser  
@@ -61,7 +61,14 @@ formease-extension/
 
 ---
 
-## 👩‍🏫 Project Mentors
+## Contributing
+
+- Explore issues and choose your interests
+- Check our [CONTRIBUTING.md](./CONTRIBUTING.md) for full setup & PR flow
+- Build real features, learn web tech, and improve user experience!
+  
+
+## Project Mentors
 
 <p align="center">
   <img src="https://github.com/vatssomya.png" width="100" height="100" style="border-radius: 50%;" />
@@ -91,15 +98,20 @@ formease-extension/
 </p>
 
 ---
+---
 
-## 🤝 How to Contribute
+## 🌱  Message to Contributors
 
-We’re actively looking for contributors (devs + designers)!
+Whether you're writing your first line of JavaScript or experimenting with browser APIs — you're welcome here. **FormEase** was born from the need to solve a real-world pain in a lightweight, privacy-friendly way — and it's powered by people like you who are curious, bold, and eager to learn.
 
-- Explore issues with labels like `good first issue`, `help wanted`
-- Check our [CONTRIBUTING.md](./CONTRIBUTING.md) for full setup & PR flow
-- Build real features, learn web tech, and improve user experience!
+If you’ve ever hesitated to contribute to open source, let this project be your safe space to try, fail, learn, and grow.
+
+Your pull request doesn't need to be perfect — it just needs to be yours.
+
+Together, let’s build something useful, beautiful, and beginner-friendly — one line at a time.
 
 ---
 
-<p align="center"><i>Built with 💻 by contributors, for contributors.</i></p>
+<p align="center"><strong>FormEase – One Tab, Fewer Hassles.</strong></p>
+
+---

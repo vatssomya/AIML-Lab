@@ -1,4 +1,4 @@
-<h1 align="center"><strong>FormEase</strong></h1>
+<h1 align="center"><strong>FORMEASE</strong></h1>
 <h3 align="center">One-Click File Processing for Seamless Online Applications</h3>
 
 ---

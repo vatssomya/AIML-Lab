@@ -100,11 +100,11 @@ formease-extension/
 
 ## 🌱  Message to Contributors
 
-Whether you're writing your first line of JavaScript or experimenting with browser APIs — you're welcome here. **FormEase** was born from the need to solve a real-world pain in a lightweight, privacy-friendly way — and it's powered by people like you who are curious, bold, and eager to learn.
+Whether you're writing your first line of JavaScript or experimenting with browser APIs, you're welcome here. **FormEase** was born from the need to solve a real-world pain in a lightweight, privacy-friendly way . It's powered by people like you who are curious, bold, and eager to learn.
 
 If you’ve ever hesitated to contribute to open source, let this project be your safe space to try, fail, learn, and grow.
 
-Your pull request doesn't need to be perfect — it just needs to be yours.
+And hey! I’m also learning and building this project with you, so feel free to suggest better approaches.
 
 Together, let’s build something useful, beautiful, and beginner-friendly — one line at a time.
 

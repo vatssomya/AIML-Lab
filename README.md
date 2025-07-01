@@ -1,3 +1,8 @@
+<p align="center">
+<img src="formease.png" alt="FormEase Preview" width="80%" />
+</p>
+
+
 <h1 align="center"><strong>FORMEASE</strong></h1>
 <h3 align="center">One-Click File Processing for Seamless Online Applications</h3>
 

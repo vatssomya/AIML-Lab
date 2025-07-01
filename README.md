@@ -37,21 +37,29 @@ Users can **resize, compress, and convert images or videos** directly inside any
 ---
 
 ## Directory Structure
+
 ```bash
-formease-extension/
-├── manifest.json
-├── content.js
-├── toolbox.html
-├── styles.css
+OSOC-25-FORMEASE/
+├── .github/
+│   ├── Code_of_conduct.MD         # Community rules & guidelines
+│   └── Contributing.md            # Contribution process & etiquette
+├── formease.png                   # Logo/image for README or branding
+├── icons/                         # (Currently empty — add icons like logo.png here)
 ├── scripts/
-│ ├── pica.min.js
-│ └── ffmpeg.min.js
-├── icons/
-│ └── logo.png
-├── README.md
+│   ├── compress.js                # Handles file compression logic
+│   ├── convert.js                 # Handles file format conversion
+│   ├── ffmpeg.min.js              # External library for video/audio processing
+│   ├── pica.min.js                # External library for image resizing
+│   └── resize.js                  # Logic for resizing images
+├── content.js                     # Injects toolbox into webpages with file inputs
+├── LICENSE                        # Licensing information (MIT, etc.)
+├── manifest.json                  # Chrome extension config & permissions
+├── README.md                      # Main documentation with project overview
+├── styles.css                     # Toolbox and component styles
+├── toolbox.html                   # Floating UI element with buttons and sliders
+
+
 ```
-
-
 
 ---
 

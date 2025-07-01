@@ -64,7 +64,7 @@ formease-extension/
 ## 👩‍🏫 Project Mentors
 
 <p align="center">
-  <img src="https://github.com/vatssomya" width="100" height="100" style="border-radius: 50%;" />
+  <img src="https://github.com/vatssomya.png" width="100" height="100" style="border-radius: 50%;" />
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://github.com/gazalgarg.png" width="100" height="100" style="border-radius: 50%;" />
 </p>

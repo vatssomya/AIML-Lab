@@ -7,6 +7,26 @@
 
 ---
 
+```bash 
+| File / Folder                | Description                                                                 |
+| ---------------------------- | --------------------------------------------------------------------------- |
+| `manifest.json`              | Defines the core extension setup, permissions, and script injection.        |
+| `content.js`                 | Injects the FormEase toolbox into webpages with file upload inputs.         |
+| `toolbox.html`               | Floating UI containing buttons and sliders for file editing.                |
+| `styles.css`                 | Styles the toolbox layout and interaction.                                  |
+| `scripts/compress.js`        | Logic to compress large files for size-constrained uploads.                 |
+| `scripts/resize.js`          | Allows image resizing to meet dimension requirements (e.g., passport size). |
+| `scripts/convert.js`         | Handles format conversion (e.g., JPG ↔ PNG, MP4 ↔ WebM).                    |
+| `scripts/ffmpeg.min.js`      | External library used for client-side video/audio conversion.               |
+| `scripts/pica.min.js`        | External library for high-quality image resizing.                           |
+| `icons/`                     | Store all extension icons like logo.png here.                               |
+| `formease.png`               | Logo or branding image used in the README.                                  |
+| `.github/Contributing.md`    | This file — learn how to contribute and get started!                        |
+| `.github/Code_of_conduct.MD` | Contributor behavior guidelines and communication norms.                    |
+
+```
+
+
 ##  Project Overview
 
 **FormEase** is a lightweight Chrome Extension that streamlines the file upload process for online application forms.  
